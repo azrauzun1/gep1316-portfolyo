@@ -27,3 +27,6 @@ Psikoloji alanında ilerlemeyi hedefleyen bir öğrenci olarak kodlama ve yapay 
 ## İletişim ve GitHub
 
 - [GitHub Profilim](https://github.com/azrauzun1)
+## Programın Çalışma Ekranı
+
+![Python programı test sonucu](IMG_2006.jpeg)
