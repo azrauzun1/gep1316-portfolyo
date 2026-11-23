@@ -22,7 +22,7 @@ Psikoloji alanında ilerlemeyi hedefleyen bir öğrenci olarak kodlama ve yapay 
 ## Projelerim
 
 - [Kişisel Psikoloji Web Portfolyom](https://azrauzun1.github.io/psikoloji-web-portfolyo/)
-- İlk Python programım: `merhaba.py` (hazırlanacak)
+- İlk Python programım: `merhaba.py` – Kullanıcıdan adını ve doğum yılını alan, geçersiz doğum yılını kontrol eden ve yaşını hesaplayan Python programı.
 
 ## İletişim ve GitHub
 
